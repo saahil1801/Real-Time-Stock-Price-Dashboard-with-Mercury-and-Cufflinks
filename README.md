@@ -1,5 +1,17 @@
 # Real-Time-Stock-Price-Dashboard-with-Mercury-and-Cufflinks
 
+
+![image](https://github.com/saahil1801/Real-Time-Stock-Price-Dashboard-with-Mercury-and-Cufflinks/assets/84408557/0200803d-8515-4aa6-a911-8fcddbd28092)
+
+
+![image](https://github.com/saahil1801/Real-Time-Stock-Price-Dashboard-with-Mercury-and-Cufflinks/assets/84408557/1207d638-3b87-45a0-aae8-30a9e8bfe8d0)
+
+
+![image](https://github.com/saahil1801/Real-Time-Stock-Price-Dashboard-with-Mercury-and-Cufflinks/assets/84408557/8f84dd23-4f5d-4b87-983d-d3a6abfa960f)
+
+
+
+
 This repository contains a Jupyter Notebook that guides you through the process of creating an interactive stock price dashboard using Python. The dashboard allows users to select a stock ticker symbol, customize the time period for data analysis, and visualize stock performance. The dashboard is built using various libraries and tools, and it can be deployed as a web application using the Mercury framework.
 
 ## Step 1: Setup
